@@ -1,2 +1,2 @@
 #!/bin/bash
-id -u mj31508
+id -u whoami
