@@ -1,2 +1,2 @@
 #!/bin/bash
- ls .. -d $PWD/*
+ ls -la -F -m -t -v
