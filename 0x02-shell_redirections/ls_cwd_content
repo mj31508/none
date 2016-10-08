@@ -1,0 +1,24 @@
+total 80
+drwxrwxr-x  2 vagrant vagrant 4096 Oct  8 03:09 .
+drwxrwxr-x 11 vagrant vagrant 4096 Oct  7 21:48 ..
+-rwxrwxr-x  1 vagrant vagrant   32 Oct  8 00:21 0-hello_world
+-rwxrwxr-x  1 vagrant vagrant   28 Oct  7 21:48 1-confused_smiley
+-rwxrwxr-x  1 vagrant vagrant   29 Oct  8 01:03 2-hellofile
+-rwxrwxr-x  1 vagrant vagrant   39 Oct  8 01:19 3-twofile
+-rwxrwxr-x  1 vagrant vagrant   39 Oct  8 01:18 3-twofiles
+-rwxrwxr-x  1 vagrant vagrant   29 Oct  8 01:23 4-lastlines
+-rwxrwxr-x  1 vagrant vagrant   29 Oct  7 21:48 5-firstlines
+-rwxrwxr-x  1 vagrant vagrant   40 Oct  7 21:48 6-third_line
+-rwxrwxr-x  1 vagrant vagrant  111 Oct  8 02:46 7-file
+-rwxrw-r--  1 vagrant vagrant   36 Oct  8 03:09 8-cwd_state
+-rwxrwxr-x  1 vagrant vagrant   35 Oct  8 00:46 9-duplicate_last_line
+-rw-r--r--  1 vagrant vagrant 1199 Oct  7 22:11 exit
+-rw-rw-r--  1 vagrant vagrant  632 Oct  7 22:04 file_list.txt
+-rw-rw-r--  1 vagrant vagrant   43 Oct  8 02:42 \*\'Holberton
+-rw-rw-r--  1 vagrant vagrant   17 Oct  7 21:49 \*\'"Holberton School"\'\*$\?\*\*\*\*\*:)
+-rw-rw-r--  1 vagrant vagrant   17 Oct  8 02:46 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r--  1 vagrant vagrant    0 Oct  8 00:43 iacta
+-rwxrwxr-x  1 vagrant vagrant    0 Oct  8 03:09 ls_cwd_content
+-rwxrw-r--  1 vagrant vagrant    0 Oct  8 00:34 practice
+-rwxrw-r--  1 vagrant vagrant   40 Oct  8 00:54 practice_2
+-rwxrwxr-x  1 vagrant vagrant   28 Oct  8 00:22 README.md
