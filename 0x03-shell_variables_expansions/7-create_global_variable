@@ -1,2 +1,2 @@
 #!/bin/bash
-env TOR=vi
+env TOR="vi"
