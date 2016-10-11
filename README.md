@@ -1,2 +1,2 @@
-# holbertonschool-sysadmin_devops
-# holbertonschool-sysadmin_devops
+#!/bin/bash
+This is my read me file
