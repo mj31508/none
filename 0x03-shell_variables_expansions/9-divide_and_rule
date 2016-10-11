@@ -1,4 +1,2 @@
 #!/bin/bash
-POWER =5
-DIVIDE=9
-export POWER / DIVIDE
+echo $(( POWER / DIVIDE))
